@@ -51,3 +51,7 @@ Technologies used in the project:
 
 *   HTML
 *   CSS
+
+<h2>Like my work?</h2>
+
+If you encounter any problems or have questions about this project please feel free to open an issue on GitHub.
